@@ -63,7 +63,6 @@ function main() {
     console.log(listOfPrimes(100))
 }
 
+// this is where we call our base function
 main()
-
-//
 
