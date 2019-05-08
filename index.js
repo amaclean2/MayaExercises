@@ -4,7 +4,7 @@ function workingCode() {
     console.log("Hello World")
 }
 
-console.log(workingCode())
+workingCode()
 
 //
 
